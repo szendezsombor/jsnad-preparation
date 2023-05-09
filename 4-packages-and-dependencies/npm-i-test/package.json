@@ -1,0 +1,23 @@
+{
+  "name": "npm-i-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jose": "^2.0.1",
+    "loadash": "^1.0.0",
+    "webpack": "^5.82.0"
+  },
+  "devDependencies": {
+    "paseto": "^3.1.4"
+  },
+  "peerDependencies": {
+    "@panva/hkdf": "^1.1.1"
+  }
+}
